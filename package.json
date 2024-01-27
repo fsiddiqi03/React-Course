@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "immer": "^9.0.19",
+    "react-icons": "^4.7.1"
+  }
+}
